@@ -243,7 +243,7 @@ The database schema pre-seeds test accounts for each role:
 
 ## 🧑‍💻 Author
 
-* **Mirsat Anka** — *Computer Engineering Student & Backend Developer*
+* **Mirsat Anka** — *Senior Computer Engineering Student & Backend Developer*
   * GitHub: [@MirsatAnka](https://github.com/MirsatAnka)
 
 ---
